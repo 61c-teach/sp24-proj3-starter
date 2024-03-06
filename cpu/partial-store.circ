@@ -91,7 +91,7 @@
     </comp>
     <comp lib="0" loc="(240,420)" name="Pin">
       <a name="appearance" val="classic"/>
-      <a name="label" val="MemWEn"/>
+      <a name="label" val="MemRW"/>
       <a name="locked" val="true"/>
     </comp>
     <comp lib="0" loc="(260,180)" name="Tunnel">
@@ -107,7 +107,7 @@
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(260,420)" name="Tunnel">
-      <a name="label" val="MemWEn"/>
+      <a name="label" val="MemRW"/>
     </comp>
     <comp lib="0" loc="(890,160)" name="Tunnel">
       <a name="facing" val="east"/>
